@@ -1,6 +1,6 @@
 spring:
-	datasource:
-		driver-class-name: com.mysql.jdbc.Driver
-		url: jdbc:mysql://appsrv1:3306/catalog
- 		username: ppuser46
-		password: T(iV&#)X84@1!
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://appsrv1:3306/catalog
+    username: ppuser46
+    password: T(iV&#)X84@1!
