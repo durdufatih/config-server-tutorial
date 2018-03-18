@@ -1,2 +1,6 @@
 hello:
   test: Merhaba
+
+spring:
+  rabbitmq:
+    host: mainhost
